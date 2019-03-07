@@ -1,3 +1,6 @@
+//call recursion, use mergeTree itself
+//if t1 not exist, return t2, if t2 not exist, return t2
+//then use recursion to the t1-left and t2-left, to the new node 
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
