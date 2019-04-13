@@ -23,9 +23,9 @@
 | 134  | [Gas Station](https://leetcode.com/problems/gas-station)     | Medium     |      |               |
 | 135  | [Candy](https://leetcode.com/problems/candy)                 | Hard       |      | Low Frequency |
 | 164  | [Maximum Gap](https://leetcode.com/problems/maximum-gap)     | Hard       |      |               |
-| 169  | [Majority Element](https://leetcode.com/problems/majority-element) | Easy       |      | Low Frequency |
+| 169  | [Majority Element](https://leetcode.com/problems/majority-element) | Easy       | √    | Low Frequency |
 | 188  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | Hard       |      |               |
-| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array)   | Easy       |      |               |
+| 189  | [Rotate Array](https://leetcode.com/problems/rotate-array)   | Easy       | √    |               |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy       |      |               |
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy       |      | Low Frequency |
 | 220  | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | Medium     |      | Low Frequency |
