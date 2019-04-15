@@ -30,7 +30,7 @@
 | 219  | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy       |      | Low Frequency |
 | 220  | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii) | Medium     |      | Low Frequency |
 | 229  | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium     |      | Low Frequency |
-| 243  | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | Easy       |      |               |
+| 243  | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance) | Easy       | √    |               |
 | 244  | [Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii) | Medium     |      |               |
 | 245  | [Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii) | Medium     |      |               |
 | 274  | [H-Index](https://leetcode.com/problems/h-index)             | Medium     |      |               |
