@@ -12,18 +12,14 @@ public:
     }
 };
 
-//binary search
+//sum
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        int left = 0, right = nums.size(), mid = (left + right) / 2;
-        while(left < right){
-        	if(nums[mid] > mid)
-        		right = mid;
-        	else
-        		left = mid + 1;
+        int sum = 0, len = nums.size();
+        for(int i = 0; i < nums.size(); i++){
+        	sum += nums[i];
         }
-        return left;
+        return len * (len + 1)/2 - sum;
     }
 };
